@@ -1,2 +1,2 @@
 # odin-recipes
-recipe html
+a website for listing random recipes
